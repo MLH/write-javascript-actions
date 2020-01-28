@@ -4,8 +4,8 @@ description: >-
   Learn how to write your own GitHub JavaScript Action!  This course will
   empower you to begin automating customized tasks unique to your workflow.
 template:
-  repo: "writing-javascript-actions-template"
-  name: "writing-javascript-actions"
+  repo: "write-javascript-actions-template"
+  name: "write-javascript-actions"
 before:
   - type: updateBranchProtection
   - type: createLabel
